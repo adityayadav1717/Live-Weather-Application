@@ -1,4 +1,4 @@
-# Aura - A Live Weather Application 🌤️
+# Live Weather Application 🌤️
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.0-purple?logo=vite&logoColor=white)](https://vitejs.dev/)
